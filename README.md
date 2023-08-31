@@ -1,2 +1,2 @@
 # STACK
-Technical Report writing for CA2 examination.
+Technical Report Writing for CA2 Examination.
